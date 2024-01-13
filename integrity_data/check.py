@@ -27,7 +27,8 @@ def compare(hash):
                     print(f"El archivo {clave2} NO tiene integridad")
 
 ##############################################
-carpeta = "/home/cristian/Documentos/04_Cursos/30_Discord/cybersecurity/Ejercicio-Cyberseguridad-1/PyJ Systems/"
+
+carpeta = input("Indique el directorio donde se encuentran alojados los archivos a comparar: ")
 
 listfiles = files(carpeta)
 checkhashing = {}
