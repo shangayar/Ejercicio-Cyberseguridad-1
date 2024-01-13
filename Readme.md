@@ -14,3 +14,7 @@ De acuerdo a los ultimas revisiones de las normativas y politicas de seguridad, 
 66bb9ec43660194bc066bd8b4d35b151  script.py
 
 Revisa si algun archivo fue alterado durante el ultimo ataque y de existir ¿cual seria?
+
+Respuesta:
+![image](https://github.com/shangayar/Ejercicio-Cyberseguridad-1/assets/40905264/831d7a8e-d553-489b-b22b-43d6e3b217c1)
+
